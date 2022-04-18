@@ -9,5 +9,5 @@ RewriteEngine On
   RewriteRule ^ - [L]
 
   # If the requested resource doesn't exist, use index.htm
-  RewriteRule ^ /index.htm
+  RewriteRule ^ /index.html
   
